@@ -8,3 +8,4 @@
 /home/mprkvco/public_html/themes/warehouse/assets/js/custom-account.js
 
 Create new file (new-file.tpl)
+new test dinesh
